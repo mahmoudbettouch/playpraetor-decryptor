@@ -1,0 +1,2 @@
+apkutils2==1.0.0
+pycryptodome==3.22.0
